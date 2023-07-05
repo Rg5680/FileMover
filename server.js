@@ -18,6 +18,8 @@ const corsOptions = {
     // ['http://localhost:3000', 'http://localhost:5000', 'http://localhost:3300']
   }
 
+credentials:true,            //access-control-allow-credentials:true
+
   app.use(cors(corsOptions));
 
 
