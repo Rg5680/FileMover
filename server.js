@@ -8,6 +8,7 @@ const cors = require('cors');
 const PORT = process.env.PORT || 3000;
 app.use(express.static('public'));
 app.use(express.json());
+app.use(cors());
 
 const connectDB = require('./config/db');
 connectDB();
@@ -23,7 +24,7 @@ credentials:true,            //access-control-allow-credentials:true
   app.use(cors(corsOptions));
 
 
-app.use(cors());
+
 app.get("/", (req,res)=>{
 res.send("server working");
 });
