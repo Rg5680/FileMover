@@ -1,0 +1,656 @@
+ Student Result Management System web dev
+
+7. GPA Calculator in c++
+
+video streaming platform 
+
+
+
+
+The Middlemen Conundrum: Issues, Causes and Effects Faced by Farmers
+
+A Comprehensive Review on Edge Computing: Architecture, Applications and Resource Management Techniques
+
+A REAL-TIME CODE EDITOR WITH REACT AND SOCKET.IO
+
+Detection of Covid-19 disease using CNN Model
+
+Face Emotions Detection using Deep Learning
+
+Netflix Data Visualization and Recommendation of Movies, Web Series and TV Shows using Exploratory Data Analysis
+
+Netflix Data Visualization and Recommendation of Movies, Web Series and TV Shows using Exploratory Data Analysis
+
+ENHANCED MACHINE LEARNING TECHNIQUE FOR ALZHEIMER’s DISEASE PREDICTION
+
+An Innovative Method Using Artificial Neural Networks to Evaluate Linguistic Steganography
+
+A Review On Decentralised Chat Application On Ethereum: Gaps, Challenges & Methodology
+
+Driver Drowsiness Detection using Deep Learning
+
+Crop Prediction Using IoT and Machine Learning for Efficient Agriculture
+
+MediFinder- A Web based portal for Drug Management System for Pharmaceuticals
+
+Blood Donation System
+
+PLADC- Plant Leaf Augmentation and Disease Classification using Deep Learning
+
+Mathematical Graph Plotting Application Using Python
+
+A Review On Military Security Policy
+
+Assessment And Forecasting Of Top Destinations In Online Tourism Using Machine Learning Techniques
+
+Building an Efficient Interpreter for High-Level Programming Language
+
+SAPSys: Slot Allocation for Parking System
+
+REVIEW ON SAFETY APPLICATION WITH CRIME STATUS AND RECOMMEND PRECAUTIONS
+
+Test case generation and Prioritization from UML: A review
+
+Survey of Measuring Effects of Layoffs on Company Reputation Using Sentiment Analysis
+
+A comprehensive Review on Machine Learning: Applications and Challenges
+
+Transforming Natural Language Queries into SQL Queries: An NLP-Based Text-to-SQL Converter
+
+A comprehensive review on Home Automation using various Methods
+
+VIDEO-BASED OBJECT DETECTION MODELS: A DISCUSSION
+
+Abhyas: A Highly functional Health and Wellness Android Application
+
+Community Detection Algorithms, Tools and Applications: A Review
+
+REAL-TIME AGE, GENDER PREDICTION AND CLASSIFICATION USING MACHINE LEARNING
+
+SENTIMENTAL ANALYSIS OF MOVIES AND WEB SERIES REVIEW USING MACHINE LEARNING ALGORITHMS
+
+Privacy-Preserving Technique for Bitcoin Address using Differential Privacy Hashing
+
+Emplacing an ML Web Application that prognosticate Parkinson's and other Peculiar Human Disease using various Algorithms and Streamlit
+
+Dynamic Music Recommendations System based on Human Emotions
+
+An Efficient Job Search And Provider Mobile App-based Platform Using Flutter
+
+Machine Learning Algorithms in Healthcare: A Review
+
+A Literature Review on Heart Stroke Prediction using Machine Learning
+
+A Review: Bitcoin Price Prediction using Machine Learning
+
+XAI Based Intelligent System for Health and Fitness
+
+A Review of Recent Deep Learning Methodologies for Dog Breed Classification and Project Proposal
+
+Honeypot Deployment –The Insider Threat
+
+Handwritten Digits and Characters Recognition Using Machine Learning
+
+An Automated face Authentication Attendance System deployed on AI utilizing Image Processing Techniques, OpenCV Python, and Deep Learning Convolutional Neural Network
+
+A Machine Learning Based Hybrid Model for E-Commerce Fraud Detection System
+
+E-Siksha: "An Overview of Distributed Learning Management Systems and Their Use in Education"
+
+A Review of Computer Vision Approaches for Stampede Detection
+
+Plant Disease Detection Using Different AI Techniques a Review Paper
+
+Drowsy Driver Alert Systems: A Review of Technologies and Effectiveness
+
+Designing of Smart Electric Vehicle System to Boost the Efficiency and the Safety.
+
+A REVIEW: VOICE EMOTION DETECTION USING ASR AND DEEP LEARNING TECHNIQUES.
+
+Smart Environment Monitoring and Field Management for Agriculture
+
+Different Robot Communication Methodologies: Review
+
+Cardiovascular Disease Prediction Using Machine Learning
+
+A neoteric review for speech emotion recognition using machine learning algorithms
+
+Statistical Analysis and Inferential Statistics: A Case Study
+
+A state-of-the-art machine learning review for Parkinson’s disease detection
+
+PEER TO PEER LOAN MANAGEMENT SYSTEM USING BLOCKCHAIN
+
+WINE QUALITY PREDICTION USING MACHINE LEARNING: A REVIEW
+
+Deep Learning Model Analysis For Retinal Disease Diagnosis
+
+A Course Recommendation System using Machine Learning
+
+TEXT BASED EMOTION ANALYSIS USING MACHINE LEARNING
+
+Web-based Chat Application with Secured Data Security Algorithm
+
+A Web based application for Heart Disease Prediction Using Machine Learning Approaches
+
+Delineation and Evolution of Video and its Audio format File Downloader Web Application
+
+Brain Tumor Detection Using CNN and VGG
+
+A Comparative Study of Aerosol and Air Quality Index based on Feature Analysis
+
+Driver Drowsiness Detection System Using Machine Learning Approach
+
+A web-based Multiple Disease Prediction System using Machine Learning.
+
+A comprehensive review on machine learning approaches to anticipate the occurrence of polycystic ovarian syndrome (PCOS) among women
+
+A Review on Staff Management System using Blockchain
+
+A Comparison of techniques for Sign Language Recognition using deep learning
+
+Loan Transaction Analysis and Prediction of Aging Buckets: A Web-based Dashboard and Machine Learning Model
+
+Scope & Applications of Augmented Reality
+
+A thorough study on data-driven face spoof detectors: state-of-the art, open research issues and future outlooks
+
+Secure Online Voting System
+
+Crypto Agora - Crypto MarketPlace
+
+A novel Smooth Penalty Function Algorithm for nonlinear Inequality Constrained Optimization Problem Computation
+
+Human Civilization Knowledge Preservation Using In-terplanetary File System Broadcaster
+
+HOUSE PRICE PREDICTION MODEL USING MACHINE LEARNING MODEL
+
+Machine Learning Techniques To Detect Brain Tumors
+
+Machine Learning-Based Voice Recognition System
+
+Emotion Detection using Natural Language Processing
+
+A comprehensive Review on Code Clone Detection Techniques
+
+A REVIEW OF THE UTILIZATION OF MACHINE LEARNING ALGORITHMS FOR PREDICTING STOCK MARKET PERFORMANCE.
+
+Research and Analysis of various Resource Allocation Techniques in IoT
+
+Revolutionalizing Heart Disease Diagnosis: A Machine Learning & Deep Learning Approach
+
+OpenGate: AutoScan Fastag System
+
+Implementation of Blockchain Technology to enhance the Integrity of E Voting Systems
+
+Integration of Blockchain Technology into Smart Cities for Information Security: Research Constituents and Need of Research
+
+A neoteric review of detecting skin cancer cells with machine and deep learning approaches
+
+ONLINE BUS TICKET BOOKING
+
+Prediction of Software Faults Using Machine Learning: A Review
+
+Review on Analysis of consumer mind and behaviour in purchasing and decision making
+
+Face Recognition Based Attendance Management System
+
+Media File Sharing Application
+
+Diabetes Disease Prediction using Machine Learning
+
+Social Media Bigotry Detection
+
+Brain Tumor Detection Using CNN Algorithm
+
+A Comprehensive Approach for Determining Sentence Similarity using Tokenization and Parsing
+
+A SURVEY ON DIGITAL IMAGE MANIPULATION DETECTION SYSTEM
+
+Text to Image Synthesis using DALL-E Model
+
+An Efficient Technique for Classifying Age and Gender Using Deep Learning
+
+A Model for an Efficient, Cost-Effective, and Secure Online Voting System Using the Aadhaar Number
+
+The Evolution of Web Technologies: Past, Present and Future
+
+FACE RECOGNITION: A NEW WAY TO MARK ATTENDANCE
+
+DNA Similarity Search with Access Control over Encrypted Cloud Data
+
+Comparative study for screening dental caries from photographs by using CNN
+
+Securing the Digital Frontier: Exploring the Current State of Cybersecurity and Strategies for Protecting Against Advanced Threats
+
+DESIGN AND IMPLEMENTATION OF AN EFFECTIVE ONLINE FOOD ORDERING APPLICATION
+
+On The Application of Machine Learning in Predicting Diabetes: Methods and Techniques
+
+A Novel Approach based on Credit Card Fraud Detection using Fitness Function Computation and GA Features Selection
+
+Spam Prevention Technique for E-Commerce
+
+Facial Emotion Recognition using Deep Learning and Machine Learning: A Review
+
+Study on Tokenization and Tool Fabrication
+
+A SECURE ELECTRONIC HEALTH RECORD SYSTEM USING BLOCKCHAIN TECHNOLOGY
+
+A Systematic Review of Crop Recommendation System Using Machine Learning Based Approaches
+
+Study on Arduino-based Air Quality Monitoring System
+
+Invest Zaroori- A Common plateform for investor and Enterpreneur:
+
+A Machine Learning Approach and Exploratory Analysis of Emotion (Depression & Sarcasm) using R Language.
+
+Classification and Comparison of Optimization Techniques in RACO-VANETs
+
+3d Hot wheels Motorsports
+
+A Study on Authentication Schemes in Vehicular Ad Hoc Networks
+
+The Ultimate Solution for Auditorium Management: Manages Event with Seat booking Functionality
+
+Recent study on braille recognition and translation system
+
+User’s Role in Personal Data Security on Cloud Platform
+
+Optimizing University Schedules using Genetic Algorithm
+
+CROP SELECTION ACCORDING TO ENVIRONMENT USING LATEST TECHNIQUE OF MACHINE LEARNING
+
+Design and Development of Prosthetic Hand with Customizable Grip
+
+Designing An ML-Powered Assistive Technology For People With Cognitive And Mental Disabilities
+
+Speech Emotion Recognition Using Different Methodologies On Ravdess :A review
+
+Web Based Blood Donation
+
+A Survey on Adversarial Attacks and Defenses in Malware Classification Using Deep Learning
+
+IDENTIFYING DROWSINESS IN DRIVERS: CASE STUDY ON METHODS AND ALGORITHMS
+
+Skill Development analysis for recruitment using KNN and deep learning Algorithm
+
+Skill Development analysis for recruitment using KNN and deep learning Algorithm
+
+Effect of Quiz Applications on Improving the mental cognitive ability of Users
+
+Forecasting Weather Temperature Using Historical Data by Applying Machine Learning Techniques
+
+Water Quality Analysis using machine learning approaches
+
+Systematic Review on Heart and Diabetes Disease Detection and Treatment Recommendation Using Machine Learning Methods
+
+Delivery On Demand (DOD)-Online Service within Campus
+
+A Comprehensive Review on Fusion of Machine Learning Algorithm for Accurate Heart Disease Prediction
+
+A REVIEW OF DATA MINING TECHNIQUES IN MEASURING STUDENT’S ACADEMIC PERFORMANCE
+
+Analysing Healthy Products Based on Nutritional Label Using Machine Learning
+
+IHBTD: Improved Hybrid Method for Detection of Brain Tumor
+
+Finding the Last Location based on License Plate Recognition using Surveillance Camera Network
+
+Advanced Classification Model for Human Mental Health to Analyze Quality of Life
+
+COMPARATIVE STUDY OF MALWARE DETECTION IN THE ANDROID OPERATING SYSTEM
+
+Pothole Detection and Classification Using Deep Learning
+
+A Review paper on Network Security and Cryptography
+
+Neural networks for sentimental analysis on hand writing
+
+Information security threats and Mitigation Strategies: A Systematic Review
+
+SMART STICK FOR VISUALLY IMPAIRED USING IoT
+
+A Decision Tree based Recommendation System for Tourists
+
+Enhanced Accuracy of Sentiment Analysis of Facial Expressions using CNN Architecture
+
+Streamlining Network Penetration Testing: Overcoming the Challenges of Manual Effort and Inefficient Tools (NetPenTest)
+
+Game Development in Unreal Engine with C++: A Comparative Analysis of Best Practices and Technique
+
+Exploring The Effectiveness of Machine Learning Techniques in Predicting Diseases and Assessing Mental Health Conditions
+
+A Review on PCOS Diagnosis Using Data Mining Algorithms
+
+Review on the Generation Of MCQ
+
+The Role of Machine Learning in Mammogram Analysis for Early Breast Cancer Detection
+
+Technologies used in Industrial Internet of Things: A Review
+
+Technologies used in Industrial Internet of Things: A Review
+
+Payment Date Prediction
+
+SPEECH RECOGNITION SYSTEM-REVIEW
+
+Designing Natural and Effective Human-AI Interfaces: A Review of Multimodal and Adaptive Interface Algorithms
+
+Anatomy of Exercise
+
+A Novel Approach for Face Recognition and Detection System
+
+Hyperpigmentation Nail Disease Detection using a Hybrid Vision Transformer Network
+
+REMOTE ELECTION POLLING USING FULL STACK DEVELOPMENT
+
+DrawYourCode Using Machine Learning elements to create websites and live-edit them through user input drawings and sketches.
+
+A comparative analysis of two Arabic handwritten datasets using pretrained deep learning models
+
+Advanced Keylogger Techniques: A Study of Covert Information Gathering
+
+A review: Most important and frequently used Algorithms in supervised learning
+
+Identifying Toxicity of Comments – Use of Logistic Regression
+
+BITCOIN PRICE PREDICTION USING LSTM
+
+Various techniques of Emotion recognition: A review
+
+Ergonomic Smart Lecture Desk with Automatic Height Adjustment System with IoT
+
+ANALYSIS OF FACE RECOGNITION AND EMOTION DETECTION
+
+Decentralized Voting System Using Blockchain Technology
+
+Demystifying Quantum threat to security and privacy
+
+Revolutionizing Real Estate Price Prediction through Advanced Machine Learning Models: A Comparative Study
+
+Revolutionizing Real Estate Price Prediction through Advanced Machine Learning Models: A Comparative Study
+
+Smart grid stability prediction using machine learning
+
+Handwritten recognition applications, techniques, and methods: Arabic language as a case study
+
+Blockchain and its Recent Applications
+
+A Study on the use of Machine Learning Techniques for Text Sentiment Analysis
+
+A Comparative Study of Traditional Irrigation Techniques and an Arduino- Based Automated Water Sprinkler System
+
+Unsupervised Learning Based Medical Image Segmentation: A Comparative Review of Algorithms with Issues and 
+Challenges
+
+The Watchful Eye: A Machine Learning Approach to Credit Card Fraud Detection
+
+Basketball Statistics Estimation Using Object Segmentation
+
+Automation of Hydroponic Microgreen Farming using IoT
+
+Student Attendance Marking System using Face Recognition
+
+Survey on Disease Diagnosis in Shrimps using Machine Learning Models
+
+Blockchain aided Land Registry: A secured E-Governance Framework for Landowners
+
+Machine Learning Based Diagnosis of Parkinson’s Disease: A Comprehensive Approach
+
+Utility of Machine Learning Techniques in the Agriculture Domain
+
+Review on Wild Animal Recognition Techniques Using Deep Learning
+
+CRYPTOCURRENCY TRACKER
+
+Vehicle Classification: Using Machine Learning
+
+Smartphone Android App for Self-Monitoring Emotional and Mental Well-Being at the University using NLP
+
+Objection Detection Web App Using Open CV Tensor Flow Flask
+
+Web Attack Detection Using Deep-Learning
+
+Exploring the Effectiveness of Software Fault Detection Algorithms through Machine Learning Techniques: A Comprehensive Review
+
+An Exploratory Study of Decentralized Chat Application On Ethereum Blockchain
+
+Literature Review on Blind Face Restoration Using GFP-GAN
+
+Criminal Surveillance And Identification System
+
+Blockchain based E-Voting System: A Survey
+
+Image Restoration using Deep Learning Techniques: A Dataset Free Approach
+
+Review and Analysis of Consumer Preferences for Local and Branded Clothing
+
+NEWS BUSTER USING MACHINE LEARNING AND ARTIFICIALs INTELIIGENCE
+
+Lawfully Data Collection Techniques in Mobile Forensic & Analysis Using Cellebrite Physical Analyzer
+
+Cloud Computing for Gaming: Issues and Challenges
+
+Machine Learning in the Newsroom: A New Frontier in the Fight Against Misinformation
+
+An Extensive Review on Various Classification Techniques of Recommendation System
+
+Digital platform for tourism asset management by local governments
+
+Creating Visual Art with Machine Learning: A Graphical Illustration of Images
+
+A Literature Analysis on the Issues Faced by the Restaurant Industry
+
+A review of recent advances in artificial intelligence and machine learning
+
+Development Of A Recommendation System For Plant Disease Detection Using AI
+
+Story Point Estimation Using Machine Learning For Agile Projects
+
+Deep Dive into Recommendation Systems for Smart Blogging: Applications, Effectiveness, and Future Directions
+
+Role of NFT in Metaverse
+
+A Survey on Drowsiness Detection Techniques
+
+Efillout: An Android App Built on React Native for Efficient Charging Station Navigation
+
+Classification of iris flowers using supervised learning techniques: Review
+
+A COMPREHENSIVE REVIEW ON FASHION RECOMMENDER SYSTEM USING MACHINE LEARNING TECHNIQUES
+
+Web Security using Cryptography: An Empirical Review
+
+Ingredients-Based Indian Cuisine Recommendation System
+
+Cancer Survival Prediction Using Different Machine Learning Approaches and Their Comparative Study
+
+Review Paper of Performance Analysis in Wireless Sensor Networks
+
+Motion Detection and Prediction using OpenCV, ResNet and Tkinter
+
+FPGA Based Voting Machine
+
+Hand Gestures Recognition using Convolutional Neural Network and Transfer Learning for the United States of America Sign Language
+Prediction Model for World Happiness Index using Machine Learning Technique
+Implementation of deep learning models for leaf disease detection and classification
+Extended Fine-grained Deep Representation Feature Analysis for Text-Independent Speaker verification using Neural Network
+Bug Bounty Recon Automation using Bash Scripting
+Effective Way For Data Segmentation
+Study & Development of a Charitable E-Commerce Web-App
+Empowering Investors With Predictive Insights Through ML Technology: A Multi-Model Approach
+An Approach to Predict Multiple Disease Using Machine Learning Techniques
+Blockchain technology with 5G: Trends and Challenges
+Classification Of Kidney Cancer Using Deep Learning and Computed Tomography (CT) Images
+Design and Development of Automatic Cleaning System for Split Air Conditioners
+Design of Implementation of Onboard Warning for Suspension Measurement System for Four Wheelers
+Market Value Prediction of Football Players
+Securing HMS Through Hybrid Method
+Fog Detection System using IOT
+Multiple Disease Prediction Using Machine Learning Algorithims
+A Review on Visual Positioning System
+APPLICATION AND CHALLENGES OF BLOCKCHAIN TECHNOLOGY
+Machine Learning Techniques for Stock Prediction System: A Comprehensive Review
+HUMAN ACTION RECOGNITION IN AN ADVERSE ENVIRONMENTAL CONDITION
+Disease Prediction by Machine Learning Enabled Approaches
+Future Perspective of Green IOT for Digital Sustainability
+Machine Learning in Heart Disease
+Algorithmic Prediction Of Diabetes In Potential Patients
+Multipurpose smart sensing device Based on IOT
+Improving Electric Load Forecasting Using a Hybrid ARIMA and Artificial Neural Network Model
+A Review on Reliable and Energy-Efficient Image Techniques in WSN
+Study & Development of PG Rental System
+Ensemble Modelling Using Greedy Optimization Technique
+A Review on Image Forgery Detection Techniques Using Machine Learning
+FORMULATING AND IMPLEMENTING SMART HOME AUTOMATED SYSTEM USING CISCO PACKET TRACER
+Fitness Application Generating Recipes Using Artificial Intelligence
+A Novel Ensemble Model for Strawberry Plant Diseases Detection and Classification
+Review on: Accidents Caused by Driver Laziness
+Brain Tumor Detector using Deep Learning
+A Deep Learning System for Multi-Label Customer Review Analysis
+Exploring the Potential of Smart Card-based and QR-based IOT Devices in Healthcare: A Comprehensive Review
+Attendance Marking System Using Face Recognition
+HEART DISEASES PREDICTION USING ENHANCHED MACHINE LEARNING ALGORITHMS
+SAFEGUARD AGAINST ADVANCED KEYLOGGER USING MIMIKATZ
+Twitter Sentimental Analysis on Covid-19
+Indian Vehicle License Plate Recognition using PyTesseract and OpenCV
+Wide review for Brain Tumor Detection Techniques
+Exploring the Potential of AI-Enabled Digital Healthcare Solutions
+Artbook: Connecting Artists and Art Lovers - A Social Networking Site for Artists to Showcase and Sell Their Creative Works
+Blood Saviour: Every Drop Matters
+Outbreak COVID-19 Diagnosis from X-ray Image modality using Deep Learning techniques
+Artificial Intelligence Powered Autonomic Computing and its Applications
+Low Power and Robust 8T SRAM with Enhanced Access Speed
+A Novel Approach for Employee Record Management using Blockchain Technology
+Email/Sms Spam Classification Model
+Comparative analysis of different algorithms on security of chat applications
+Streamlining Navigation Using Sensor fusion for GPS and Augmented Reality
+A Novel Approach for the Detection of Skin Cancer Using Ensemble Deep Learning-Based Technique
+Review of Orthogonal Time Frequency Space Multiplexing (OTFS)-A Promising Replacement of OFDM for Future 6G Applications
+Identification and Tracking of Facial Features for Attendance System
+Solar Powered and IoT based Multi-colored, Multi-lingual Scrolling Display
+Air Quality Prediction Using Deep Learning- A Review
+Facial Diseases Prediction Using Machine Learning & Deep Learning: A Review
+IoT Based Smart Intruder Detection System for Home and Shops
+Wireless Indoor Localization by Using Machine learning techniques
+Heart Failure Predictor
+Android Cab Application
+Smart Destination Management in Kashmir: A Study of the Integration of Technology and Tourism
+SMART FARMING USING IOT IN PROTECTED CULTIVATION
+WATER QUALITY MONITORING AND PREDICTION USING MACHINE LEARNING MODELS
+Spatio-Temporal rainfall prediction and trend analysis using hybrid machine learning: A review
+Innovative Approaches to Book Recommendation: A Systematic Review
+Recent Advances in Malicious URL Detection Using Machine Learning
+Review Paper on Spam Detection
+Revolutionizing Connectivity - 5G Mobile Networks : A Review
+A Review of Face-up Detector Technology
+Prediction Analysis on Trending Twitter Hashtags using Machine Learning
+Blockchain Wallet For Secure Transactions
+Prediction of Vehicle Emission using Machine Learning
+A Novel ML-MICF: Machine Learning-Based Malware Identification And Classification Framework
+Recent Trends in Skin Cancer Detection Using Deep Learning Based Techniques Applied on Medical Imaging: A Short Review
+Detecting Objects From Satellite Images Using Deep Learning
+6G Integration with IoT Applications: A Review
+Comparative Restaurant Review Analysis Using Deep Learning
+Smart Attendance System Using Face Recognition
+Integrated Development Environment powered by AI with Database security and Cloud
+Analysis of Grocery Websites
+Heart Disease Analysis research and analysis using K-Nearest Neighbor: A Review
+Optimize Build Time of Microservice Based Application Using Containerization And Browser Caching
+Smart Garbage Collector Bot With Advanced Monitoring system
+An Overview of Removing Blocking Artifacts from Compressed Images
+Bank Transaction using Facial Identification
+Usability Of Chatbots
+Biometric Fingerprint Authentication
+real time collaborative text editor
+Travel Industry: Comparison of Travel Review for ease in making travel decision
+Detecting Fake Images using Deep Learning
+Phishing Attacks
+Chatbot
+Smart Homes: A State-of-the-Art Review of Automated Systems and their Integration
+A Research on Improvements in Horror Game Development
+A Comprehensive Review on Penetration Testing Tools with Emerging Technology
+Multiple Disease Prediction Using Machine Learning
+Taxonomy for Deep Learning in Natural Language Processing
+Using Keystroke Dynamics for Early Detection of Parkinson’s Disease
+SPEECH RECOGNITION USING HMM AND COMBINATIONS: A REVIEW
+Gender Detection Using Facial Recognition
+Innovative Approach to Campground Reservation: A Review of an E-commerce Website
+Decentralized Blood Bank Management System
+A Review Paper: Fingerprint Based Attendance System Using NodeMCU
+Machine learning models for heart disease detection
+A Review of Learning Types research trends on the use of machine learning in education
+Simulation Based Comparative Study of Routing Protocols in FANET
+Artificial Intelligence and Machine Learning in Detection of Covid 19 in Healthcare: A Review.
+Garbage Bin Status Indicator Based on Multilayer Convolutional Neural Networks
+Exploring the potential of Deep Learning and Machine Learning Methods for detection, prevention and control of Monkey pox epidemic: a Comparative Study
+Forecasting Global Energy Consumption using different Machine Learning Algorithms: A Review
+Technology based cooperative and collaborative learning in a diverse classroom: A systematic literature review
+Detection of Eye Diseases Using Fundus Images with Artificial Intelligence: A Review
+Assessment of several loss functions and optimization strategies for Pneumonia Detection
+Heart Disease Prognosis Using Machine Learning Approaches: A Review
+SURVEY OF CLASSIFICATION TECHNIQUES FOR SKIN CANCER IN MEDICAL IMAGES
+Weather Prediction Using Machine Learning
+Book Recommendation System
+Cardiovascular Disease Prediction using Machine Learning Algorithms
+Smart Air Quality Index monitoring and controlling system
+Handwritten Character Recognition by Using Machine Learning: A Review
+Online Pharmaceutical Management System
+Enhanced User Convenient Campus Based E-Rickshaw Polling System Using Flutter
+Decentralized and Transparent E-Voting System using ZK-Proof
+Deployment of Smart Theft Control System
+Creativegram: Adding creativity in social media
+Artificial Intelligence based Career Development Web Counseling: A Review
+Comparative Analysis of Forecasting Techniques in Weather Forecasting
+React Voicey: Voice Controlled Library
+Hybrid- Crypter
+Smart Cooking: Ingredient-Based Recipe Recommendation through Object Recognition
+Research Paper on Data Migration and Web Scraping with UI Path and Integration with Excel
+Cryptocurrency Price Prediction Analysis using Machine Learning Algorithms
+Smart Collar Band For Pets: Enhancing, Safety, Health, And Communication
+Aware Analytic Driven Online Shoppers Purchasing Intentio Using Machine Learning Variable Algorithms
+A Review on Prediction Of Student Academic Performance Using Machine Learning
+Quantum AI: Exploring the Intersection of Quantum Computing and Artificial Intelligence
+Health Condition Monitoring System for Transformer Using Internet of Things (IoT)
+Singular Value Decomposition Based Book Recommendation System
+Early Forest Fire Detection and Control System
+Online Hotel Reservation with High Efficiency
+Classification Of Dental Problems Using Machine Learning
+Hand Gesture Recognition With Efficiency Analysis
+A Review On Customer Satisfaction And an Efficient Online Cab Booking System
+A Framework for Developing University-Centric Web Application for Lost and Found Items
+Machine Learning Techniques for Text Summarization Using Natural Language Processing
+Relation of Preterm Birth with Mathematical skills
+P2P Energy Market: System Architecture
+Honeypot: A Review
+E-commerce platforms growth and challenges : A Systematic review
+The Role and Importance of Artificial Intelligence in Disease Diagnosis in Humans
+Research trends on block-chain based digital twin
+A Comprehensive Review on the Techniques Used for Recognising Handwritten Medical Prescriptions
+Real Time Stampede Detection System Using Computer Vision
+A Voice Recognition Based Vehicle Detection System
+House Price Prediction and Analysis via Machine Learning Technique
+IMAGE CLASSIFICATION AND RECOGNITION USING ARTIFICIAL INTELLIGENCE
+A review on various symmetric encryption algorithms for multiple applications
+Applicability of Augmented Reality in Agriculture using IoT Application
+Billing Worklog Using Salesforce
+WHATSAPP CHAT ANALYZER
+Early Identification of Slow Learners Using Machine Learning and Data Mining Techniques
+Fake News Detection Using Blockchain
+Image Document Verification
+Amalgamation Of Big Data, Artificial Intelligence And Blockchain In Healthcare Settings
+Current Trends In Federated Learning: A Review
+Sentimental Analysis of Text Using Machine Learning
+OPTIMIZING THD OF PI, FLC, AND ANFIS CONTROLLER FOR ELECTRIC VEHICLE FAST CHARGING SYSTEM: A COMPARATIVE STUDY
+Methodologies For Sign Language Recognition: A Survey
+Assessing The Effectiveness Of Machine Learning Algorithms For Intrusion Detection
+Sustenance Maintenance and Ailment Redressal System
+Deployment and Analysis of Microservice-Based Applications in different Cloud Environments
+Development of WebApp for Collection , Transportation, Disposal and Segregation of Waste Products Using Microservices
+Artificial Brain:A step towards Imortality
+Development of Android-based Management Application to enhance the school efficiency
+Employing Deep Learning techniques for Brain tumor Diagnosis from MRI images
+Emerging trends in food delivery applications in India
+Reimagining Color: Deep Learning-based Black and White Image and Video Colorization
+Student’s Performance-Based Model for Prediction of Placement Factor Using Machine Learning

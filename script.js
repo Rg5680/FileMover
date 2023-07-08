@@ -4,6 +4,8 @@ const fs = require('fs');
 
 connectDB();
 
+
+
 // Get all records older than 24 hours 
 async function fetchData() {
     const pastDate = new Date(Date.now() - 24 * 60 * 60 * 1000);
